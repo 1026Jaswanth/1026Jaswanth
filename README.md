@@ -6,17 +6,20 @@
 
 ### 🚀 Elevator Pitch
 
-With hands-on experience in STM32 development, AES encryption, and ROS2, I bridge the gap between secure embedded systems and scalable automation. My work spans from designing robust IoT solutions (like fish pond monitoring) to implementing CI/CD pipelines for agile teams.
+With hands-on experience in Raspberry Pi (including RPi Pico 2W), sensors integration, STM32 development, AES encryption, and ROS2, I bridge the gap between secure embedded systems and scalable automation. My work spans from designing robust IoT solutions (like fish pond monitoring) to implementing CI/CD pipelines for agile teams.
 
 ---
 
 ### 🛠️ Technical Skills
 
 **Embedded & IoT:**  
-![STM32](https://img.shields.io/badge/STM32-blue?logo=stmicroelectronics)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberrypi)
+![RPi Pico 2W](https://img.shields.io/badge/RPi%20Pico%202W-009688?logo=raspberrypi)
+![Sensors](https://img.shields.io/badge/Sensors-orange)
 ![LoRa](https://img.shields.io/badge/LoRa-green)
 ![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?logo=nvidia)
 ![ESP32](https://img.shields.io/badge/ESP32-black)
+![STM32](https://img.shields.io/badge/STM32-blue?logo=stmicroelectronics)
 
 **Software & Tools:**  
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?logo=ros)
@@ -42,7 +45,7 @@ With hands-on experience in STM32 development, AES encryption, and ROS2, I bridg
 
 ### 📈 Contribution Graph
 
-> _Consistent contributions reflect my commitment to continuous improvement and collaboration._
+> _Consistent contributions reflect my commitment to continuous improvement and collaboration._ 
 
 ---
 
@@ -66,6 +69,7 @@ For each pinned repo, ensure the README includes:
 ### 🧭 Current Focus
 
 Currently exploring advanced firmware security and strategic management.
+
 
 
 ## 📊 My Stats
