@@ -6,7 +6,7 @@
 
 ### 🚀 Elevator Pitch
 
-With hands-on experience in Raspberry Pi (including RPi Pico 2W), sensors integration, STM32 development, AES encryption, and ROS2, I bridge the gap between secure embedded systems and scalable automation. My work spans from designing robust IoT solutions (like fish pond monitoring) to implementing CI/CD pipelines for agile teams.
+With hands-on experience in Raspberry Pi (including RPi Pico 2W), sensors integration, STM32 development, AES encryption, and ROS2, I bridge the gap between secure embedded systems and scalable automation. My work spans from designing robust IoT solutions to implementing CI/CD pipelines for agile teams.
 
 ---
 
@@ -36,7 +36,6 @@ With hands-on experience in Raspberry Pi (including RPi Pico 2W), sensors integr
 
 ### 📌 Pinned Projects
 
-- [Fish Pond Monitoring System](https://github.com/1026jaswanth/fish-pond-monitoring) — IoT, STM32, LoRa, Sensors, Data Visualization
 - [AES Encryption Module](https://github.com/1026jaswanth/aes-encryption) — Secure Embedded Implementation
 - [ROS2 Automation Scripts](https://github.com/1026jaswanth/ros2-automation) — Robotics, Automation, Python
 - [CI/CD Pipeline Templates](https://github.com/1026jaswanth/cicd-templates) — DevOps, Project Analyst Tools
