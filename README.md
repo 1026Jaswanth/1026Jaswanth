@@ -60,7 +60,7 @@ For each pinned repo, ensure the README includes:
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/your-linkedin)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/jaswanth1026/)  
 [![Blog](https://img.shields.io/badge/Blog-grey?logo=wordpress)](https://yourblog.com)
 
 ---
