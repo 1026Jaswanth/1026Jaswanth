@@ -50,11 +50,7 @@ With hands-on experience in Raspberry Pi (including RPi Pico 2W), sensors integr
 
 ### 📚 Top Project Documentation
 
-For each pinned repo, ensure the README includes:
-- **Project Description:** What does it do and why?
-- **Setup Instructions:** How to build, run, or deploy.
-- **Hardware List:** (e.g., STM32, LoRa Module, Sensors)
-- **Contact/Support:** How to reach you for questions.
+- **PCC**
 
 ---
 
